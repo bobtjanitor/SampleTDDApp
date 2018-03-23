@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication.Migration
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication.Data", "SampleApplication.Data\SampleApplication.Data.csproj", "{C9283F3B-CE5D-4811-ACD5-9C72434BD0E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication.Data_Tests", "SampleApplication.Data_Tests\SampleApplication.Data_Tests.csproj", "{2539BF25-03D2-4138-85FF-4A9FF17BD7D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{C9283F3B-CE5D-4811-ACD5-9C72434BD0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9283F3B-CE5D-4811-ACD5-9C72434BD0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9283F3B-CE5D-4811-ACD5-9C72434BD0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2539BF25-03D2-4138-85FF-4A9FF17BD7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2539BF25-03D2-4138-85FF-4A9FF17BD7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2539BF25-03D2-4138-85FF-4A9FF17BD7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2539BF25-03D2-4138-85FF-4A9FF17BD7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
