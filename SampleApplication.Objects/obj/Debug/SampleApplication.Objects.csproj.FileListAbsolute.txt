@@ -1,5 +1,0 @@
-E:\Development\SampleTDDApp\SampleApplication.Objects\bin\Debug\SampleApplication.Objects.dll
-E:\Development\SampleTDDApp\SampleApplication.Objects\bin\Debug\SampleApplication.Objects.pdb
-E:\Development\SampleTDDApp\SampleApplication.Objects\obj\Debug\SampleApplication.Objects.csprojResolveAssemblyReference.cache
-E:\Development\SampleTDDApp\SampleApplication.Objects\obj\Debug\SampleApplication.Objects.dll
-E:\Development\SampleTDDApp\SampleApplication.Objects\obj\Debug\SampleApplication.Objects.pdb

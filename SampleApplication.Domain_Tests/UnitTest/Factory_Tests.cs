@@ -8,7 +8,7 @@ namespace SampleApplication.Domain_Tests.UnitTest
     public class Factory_Tests
     {
         [Test]
-        public void GetEmployeeRepository_Test()
+        public void Get_Employee_Repository_Test()
         {
             Assert.IsInstanceOf<IEmployeeRepository>(Factory.GetEmployeeRepository());
         }    
