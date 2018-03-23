@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 using NUnit.Framework;
-using SampleApplication.Repository;
+using SampleApplication.Data;
 
 namespace SampleApplication.Repository_Tests
 {

@@ -1,5 +1,5 @@
-﻿using SampleApplication.Objects.RepositoryInterfaces;
-using SampleApplication.Repository;
+﻿using SampleApplication.Data;
+using SampleApplication.Objects.RepositoryInterfaces;
 
 namespace SampleApplication.Domain
 {

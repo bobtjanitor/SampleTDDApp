@@ -1,0 +1,10 @@
+bin
+obj
+/SampleApplication.Repository/bin
+/SampleApplication.Repository/obj
+SampleApplication.Web.csproj.user
+SampleApplication.Web.v2.ncrunchproject
+SampleApplication.Web_Tests.v2.ncrunchproject
+*.ncrunchproject
+/.vs/SampleApplication
+/SampleApplication.v3.ncrunchsolution
