@@ -1,0 +1,9 @@
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\SampleApplication.Objects_Tests.dll
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\SampleApplication.Objects_Tests.pdb
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\nunit.framework.dll
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\SampleApplication.Objects.dll
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\SampleApplication.Objects.pdb
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\bin\Debug\nunit.framework.xml
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\obj\Debug\SampleApplication.Objects_Tests.csprojResolveAssemblyReference.cache
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\obj\Debug\SampleApplication.Objects_Tests.dll
+E:\Development\SampleTDDApp\SampleApplication.Objects_Tests\obj\Debug\SampleApplication.Objects_Tests.pdb

@@ -1,0 +1,10 @@
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\SampleApplication.Repository.dll.config
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\SampleApplication.Repository.dll
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\SampleApplication.Repository.pdb
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\EntityFramework.dll
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\SampleApplication.Objects.dll
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\SampleApplication.Objects.pdb
+E:\Development\SampleTDDApp\SampleApplication.Repository\bin\Debug\EntityFramework.xml
+E:\Development\SampleTDDApp\SampleApplication.Repository\obj\Debug\SampleApplication.Repository.csprojResolveAssemblyReference.cache
+E:\Development\SampleTDDApp\SampleApplication.Repository\obj\Debug\SampleApplication.Repository.dll
+E:\Development\SampleTDDApp\SampleApplication.Repository\obj\Debug\SampleApplication.Repository.pdb
