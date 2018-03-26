@@ -63,6 +63,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="ProdMigration.bat" />
     <None Include="DevMigration.bat" />
     <None Include="packages.config" />
   </ItemGroup>

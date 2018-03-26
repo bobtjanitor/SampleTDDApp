@@ -6,7 +6,7 @@ using SampleApplication.Objects.Dtos;
 using SampleApplication.Objects.RepositoryInterfaces;
 
 namespace SampleApplication.Domain_Tests.Behavioral
-{
+{    
     [TestFixture]
     public class When_Requesting_Employees_From_Washington_With_Out_A_City_Tests : Test_Context<EmployeeRequests>
     {
@@ -30,7 +30,7 @@ namespace SampleApplication.Domain_Tests.Behavioral
         }
 
         [Test]
-        public void HasNoErrors_Test()
+        public void Has_Errors_Test()
         {
             Assert.AreEqual(1, Target.Errors.Count);
         }
