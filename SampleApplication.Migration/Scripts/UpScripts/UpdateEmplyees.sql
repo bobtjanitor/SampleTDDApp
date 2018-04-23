@@ -1,0 +1,1 @@
+﻿alter table Employees add Phone varchar(12)

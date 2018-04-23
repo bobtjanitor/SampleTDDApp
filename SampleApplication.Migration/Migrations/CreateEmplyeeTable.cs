@@ -1,7 +1,7 @@
 ﻿using System;
 using FluentMigrator;
 
-namespace SampleApplication.Migration
+namespace SampleApplication.Migrations
 {
     //migration number is mased on YYYYMMDDhhmm
     [Migration(201803231125)]

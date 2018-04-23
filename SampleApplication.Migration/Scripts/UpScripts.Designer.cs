@@ -59,5 +59,14 @@ namespace SampleApplication.Migration.Scripts {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string UpdateEmplyees {
+            get {
+                return ResourceManager.GetString("UpdateEmplyees", resourceCulture);
+            }
+        }
     }
 }

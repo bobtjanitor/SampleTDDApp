@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Migrations\CreateEmplyeeTable.cs" />
+    <Compile Include="Migrations\UpdateEmplyeeTable.cs" />
     <Compile Include="Profiles\DevProfile.cs" />
     <Compile Include="Profiles\ProdProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -70,7 +71,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Scripts\DownScripts\" />
-    <Folder Include="Scripts\UpScripts\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Scripts\ProfileScripts.resx">
@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\ProfileScripts\AddEmployees.sql" />
+    <Content Include="Scripts\UpScripts\UpdateEmplyees.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
