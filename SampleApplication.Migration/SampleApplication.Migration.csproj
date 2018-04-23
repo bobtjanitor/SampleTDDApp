@@ -45,11 +45,12 @@
   <ItemGroup>
     <Compile Include="Migrations\CreateEmplyeeTable.cs" />
     <Compile Include="Profiles\DevProfile.cs" />
+    <Compile Include="Profiles\ProdProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Scripts\DevProfileScripts.Designer.cs">
+    <Compile Include="Scripts\ProfileScripts.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DevProfileScripts.resx</DependentUpon>
+      <DependentUpon>ProfileScripts.resx</DependentUpon>
     </Compile>
     <Compile Include="Scripts\DownScripts.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -63,18 +64,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ProdMigration.bat" />
-    <None Include="DevMigration.bat" />
+    <None Include="DevMigration.ps1" />
     <None Include="packages.config" />
+    <None Include="ProdMigration.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Scripts\DownScripts\" />
     <Folder Include="Scripts\UpScripts\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Scripts\DevProfileScripts.resx">
+    <EmbeddedResource Include="Scripts\ProfileScripts.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>DevProfileScripts.Designer.cs</LastGenOutput>
+      <LastGenOutput>ProfileScripts.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Scripts\DownScripts.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

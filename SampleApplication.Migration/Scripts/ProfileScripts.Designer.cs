@@ -22,14 +22,14 @@ namespace SampleApplication.Migration.Scripts {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class DevProfileScripts {
+    public class ProfileScripts {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal DevProfileScripts() {
+        internal ProfileScripts() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace SampleApplication.Migration.Scripts {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SampleApplication.Migration.Scripts.DevProfileScripts", typeof(DevProfileScripts).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SampleApplication.Migration.Scripts.ProfileScripts", typeof(ProfileScripts).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,11 @@ namespace SampleApplication.Migration.Scripts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to --insert into Employees ().
+        ///   Looks up a localized string similar to Truncate table Employees;
+        ///
+        ///insert into Employees (FirstName, Lastname, City, State) values 
+        ///(&apos;Jack&apos;,&apos;Forst&apos;,&apos;Denver&apos;,&apos;Co&apos;),
+        ///(&apos;Rogger&apos;,&apos;Rabbit&apos;,&apos;Seattle&apos;,&apos;Washington&apos;).
         /// </summary>
         public static string AddEmployees {
             get {

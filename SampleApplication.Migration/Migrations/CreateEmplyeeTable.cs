@@ -3,6 +3,7 @@ using FluentMigrator;
 
 namespace SampleApplication.Migration
 {
+    //migration number is mased on YYYYMMDDhhmm
     [Migration(201803231125)]
     public class CreateEmplyeeTable : FluentMigrator.Migration
     {

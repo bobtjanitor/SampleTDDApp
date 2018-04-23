@@ -3,8 +3,8 @@ using SampleApplication.Migration.Scripts;
 
 namespace SampleApplication.Migration.Profiles
 {
-    [Profile("dev")]
-    public class DevProfile : FluentMigrator.Migration
+    [Profile("prod")]
+    public class ProdProfile : FluentMigrator.Migration
     {
         public override void Up()
         {
